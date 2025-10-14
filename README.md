@@ -1,4 +1,4 @@
-# glowing-octo-broccoli
+# Glowing Octo Broccoli
 A comprehensive collection of Full Stack Development (FSD) resources by the Trust G30 FSD Group, covering frontend, backend, databases, DevOps, and project-based learning for aspiring developers.
 
 # SURE Trust G30 FSD Group
